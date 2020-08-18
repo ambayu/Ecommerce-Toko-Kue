@@ -1,0 +1,52 @@
+*{
+margin: 0;
+padding: 0;
+}
+select{
+	position: absolute;
+}
+form {
+position: absolute;
+  right: 78px;
+    top: 218px;
+}
+
+.header{
+	height: 38%;
+
+	background:#00b3b3;
+}
+
+.head{
+	height:30%;
+	background: #009999;
+}
+.head a{
+	text-decoration: none;
+color: white;
+padding: 30px;
+background: #00b3b3;
+position: absolute;
+}
+.head img:Hover{opacity: 0.7;}
+input#SUBMIT:Hover{
+	border-color: white;
+}
+.head a:Hover{
+	background: #004d4d;
+}
+.content{
+	height: 59%;
+	width:100%;
+	background: white;
+}
+.con{
+height: 100%;
+width:20%;
+background: white;
+}
+.footer{
+	height: 3%;
+background: #009999;
+
+}
