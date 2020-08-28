@@ -153,8 +153,7 @@ error_reporting(0);
         echo "<table style=\"float: left;text-align: center; margin-right:30px; margin-bottom:20px;
    \">
        <tr>
-       <td   >
-            <div class=\"grid\" style=\"float:none\">
+       <td   >            <div class=\"grid\" style=\"float:none\">
               <a class=\"link\" href=\"pos.php?id=".$id."\">
                 <img src=\"komik/".$gambar."\"> </a>
                 <a class=\"link\" href=\"pos.php?id=".$id."\">
